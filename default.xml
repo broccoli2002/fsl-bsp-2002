@@ -25,4 +25,6 @@
 
   <project remote="qt" revision="warrior" name="meta-qt5" path="sources/meta-qt5"/>
 
+  <project remote="broccoli2002" revision="warrior" name="meta-sigowill" path="sources/meta-sigowill"/>
+
 </manifest>
