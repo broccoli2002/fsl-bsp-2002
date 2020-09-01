@@ -7,6 +7,7 @@
   <remote fetch="https://github.com/Freescale" name="freescale"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/meta-qt5" name="qt"/>
+  <remote fetch="https://github.com/sbabic" name="sbabic"/>
   <remote fetch="https://github.com/broccoli2002" name="broccoli2002"/>
 
   <project remote="yocto" revision="warrior" name="poky" path="sources/poky"/>
@@ -24,6 +25,7 @@
   <project remote="freescale" revision="warrior" name="Documentation" path="sources/Documentation"/>
 
   <project remote="qt" revision="warrior" name="meta-qt5" path="sources/meta-qt5"/>
+  <project remote="sbabic" revision="warrior" name="meta-swupdate" path="sources/meta-swupdate/"/>
 
   <project remote="broccoli2002" revision="warrior" name="meta-sigowill" path="sources/meta-sigowill"/>
 
