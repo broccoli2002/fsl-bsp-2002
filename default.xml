@@ -8,6 +8,7 @@
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/meta-qt5" name="qt"/>
   <remote fetch="https://github.com/sbabic" name="sbabic"/>
+  <remote fetch="https://github.com/LairdCP" name="laird"/>
   <remote fetch="https://github.com/broccoli2002" name="broccoli2002"/>
 
   <project remote="yocto" revision="warrior" name="poky" path="sources/poky"/>
@@ -26,6 +27,7 @@
 
   <project remote="qt" revision="warrior" name="meta-qt5" path="sources/meta-qt5"/>
   <project remote="sbabic" revision="warrior" name="meta-swupdate" path="sources/meta-swupdate/"/>
+  <project remote="laird" revision="lrd-8.0.0.x" name="meta-laird-cp" path="sources/meta-laird-cp/"/>
 
   <project remote="broccoli2002" revision="warrior" name="meta-sigowill" path="sources/meta-sigowill"/>
 
