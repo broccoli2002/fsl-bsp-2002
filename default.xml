@@ -26,9 +26,9 @@
   <project remote="freescale" revision="warrior" name="Documentation" path="sources/Documentation"/>
 
   <project remote="qt" revision="warrior" name="meta-qt5" path="sources/meta-qt5"/>
-  <project remote="sbabic" revision="zeus" name="meta-swupdate" path="sources/meta-swupdate/"/>
   <project remote="laird" revision="lrd-8.0.0.x" name="meta-laird-cp" path="sources/meta-laird-cp/"/>
 
+  <project remote="broccoli2002" revision="zeus" name="meta-swupdate" path="sources/meta-swupdate/"/>
   <project remote="broccoli2002" revision="warrior" name="meta-sigowill" path="sources/meta-sigowill"/>
 
 </manifest>
